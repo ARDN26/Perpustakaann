@@ -7,9 +7,9 @@ import java.sql.Statement;
 
 class  Login {
     public static void main(String[] args) throws Exception {
-        //login();
+        login();
         //input_admin();
-        adminmenu.admin_menu();
+        //adminmenu.admin_menu();
     }
 
 
